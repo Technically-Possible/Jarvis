@@ -1,0 +1,1 @@
+http://newsrss.bbc.co.uk/weather/forecast/351/Next3DaysRSS.xml
